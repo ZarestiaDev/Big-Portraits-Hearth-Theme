@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<root version="3.3" >
+	<properties>
+		<name>Feature: Chat Portraits Hearth Theme</name>
+		<version>1.0</version>
+		<loadorder>2000</loadorder>
+		<description>
+			<text>Chat Portraits Hearth Theme</text>
+			<website></website>
+			<author>Zarestia</author>
+		</description>
+	</properties>
+
+	<announcement text="Chat Portraits Hearth Theme - v1.0 by Zarestia" font="emotefont" />
+
+	<base>
+	<!-- Graphics -->
+		<includefile source="graphics/graphics_portraits.xml" />
+	</base>
+</root>
