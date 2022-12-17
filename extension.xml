@@ -2,17 +2,25 @@
 
 <root version="3.3" >
 	<properties>
-		<name>Feature: Chat Portraits Hearth Theme</name>
+		<name>Feature: Big Portraits Hearth Theme</name>
 		<version>1.0</version>
 		<loadorder>2000</loadorder>
 		<description>
-			<text>Chat Portraits Hearth Theme</text>
-			<website></website>
+			<text>Big Portraits Hearth Theme</text>
 			<author>Zarestia</author>
 		</description>
+		<ruleset>
+			<name>3.5E</name>
+		</ruleset>
+		<ruleset>
+			<name>PFRPG</name>
+		</ruleset>
+		<ruleset>
+			<name>5E</name>
+		</ruleset>
 	</properties>
 
-	<announcement text="Chat Portraits Hearth Theme - v1.0 by Zarestia" font="emotefont" />
+	<announcement text="Big Portraits Hearth Theme - v1.0 by Zarestia" font="emotefont" />
 
 	<base>
 	<!-- Graphics -->
